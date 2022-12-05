@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6, ul, p {
 }
 
 .team-list>.item {
-  /* padding-bottom: 32px; */
+  padding-bottom: 36px;
   background-color: var(--bgd-white);
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
   border-radius: 0px 0px 4px 4px;
@@ -313,7 +313,8 @@ h1, h2, h3, h4, h5, h6, ul, p {
 .social-link-list {
   display: flex;
   justify-content: center;
-  padding: 12px 16px 36px;
+  margin-top: 12px;
+  
   
 
 }
@@ -356,8 +357,8 @@ h1, h2, h3, h4, h5, h6, ul, p {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 175px;
-  height: 90px;
+  width: 168px;
+  height: 88px;
   border: 1px solid #8E8F99;
   border-radius: 4px;
   color: #8E8F99;
